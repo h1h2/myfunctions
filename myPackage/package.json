@@ -1,0 +1,7 @@
+{
+    "name": "@h1h2/myfunctions",
+    "version": "2.1.0",
+    "description": "Common functions used by me",
+    "repository": "h1h2/myfunctions",
+    "main": "index.js"
+}
